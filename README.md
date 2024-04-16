@@ -1,2 +1,4 @@
-# AIR-PRESSURE_JD
-Development of a Simulated adaptive tire pressure system. Use of Arduionp IoT, CAN communication Protocol and STM32
+# AirPressure
+
+#### Situacion Problema del Tec de Monterrey
+#### Realizar un sistema modular que controle la presion de aire
